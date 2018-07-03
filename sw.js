@@ -1,5 +1,5 @@
-var dataCacheName = 'PricePerLiter-v1';
-var cacheName = 'PricePerLiter-final-1';
+var dataCacheName = 'beerBestSize-v1';
+var cacheName = 'beerBestSize-final-1';
 var filesToCache = [
   '/beer',
   '/beer/index.html',
