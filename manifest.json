@@ -1,0 +1,23 @@
+{
+    "name": "Beer: best size",
+    "short_name": "Best size",
+    "theme_color": "#005f97",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/beer/index.html",
+    "lang": "us",
+    "orientation": "any",
+    "icons": [
+      {
+        "src": "img/beer-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/beer-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
